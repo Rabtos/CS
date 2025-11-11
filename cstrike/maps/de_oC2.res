@@ -1,0 +1,11 @@
+gfx/env/sp_zavod_lf.tga
+gfx/env/sp_zavod_ft.tga
+gfx/env/sp_zavod_bk.tga
+gfx/env/sp_zavod_rt.tga
+gfx/env/sp_zavod_dn.tga
+gfx/env/sp_zavod_up.tga
+maps/de_oC2.bsp
+maps/de_oC2.res
+maps/de_oC2.nav
+overviews/de_oC2.bmp
+overviews/de_oC2.txt

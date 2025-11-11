@@ -1,0 +1,10 @@
+models/aim_warehouse/barrels.mdl
+models/aim_warehouse/bulb.mdl
+models/aim_warehouse/elecswitch.mdl
+models/aim_warehouse/fire_extinguisher.mdl
+models/aim_warehouse/lamp.mdl
+models/aim_warehouse/rail.mdl
+models/aim_warehouse/shelves.mdl
+models/aim_warehouse/trash2.mdl
+maps/aim_warehouse.txt
+maps/aim_warehouse.res

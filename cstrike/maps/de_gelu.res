@@ -1,0 +1,13 @@
+overviews/de_gelu.txt
+overviews/de_gelu.bmp
+maps/de_gelu.txt
+maps/de_gelu.res
+models/de_gelu/grsbsh.mdl
+models/de_gelu/grsbshs.mdl
+models/de_gelu/tr.mdl
+gfx/env/dustbk.tga
+gfx/env/dustdn.tga
+gfx/env/dustft.tga
+gfx/env/dustlf.tga
+gfx/env/dustrt.tga
+gfx/env/dustup.tga

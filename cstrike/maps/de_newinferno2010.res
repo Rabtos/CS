@@ -1,0 +1,12 @@
+de_proost.wad
+gfx/env/sunnybk.tga
+gfx/env/sunnydn.tga
+gfx/env/sunnyft.tga
+gfx/env/sunnylf.tga
+gfx/env/sunnyrt.tga
+gfx/env/sunnyup.tga
+sound/de_new_inferno_2010/la_waves.wav
+sound/de_new_inferno_2010/tavern.WAV
+sound/de_new_inferno_2010/vol-falls.wav
+maps/de_newinferno2010.txt
+maps/de_newinferno2010.res

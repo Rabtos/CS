@@ -1,0 +1,15 @@
+maps/aim_lambdalab.bsp
+maps/aim_lambdalab.res
+maps/aim_lambdalab.txt
+ambience/computalk1.wav
+ambience/computalk2.wav
+Industrial_Sounds/dronemachine1.wav
+Industrial_Sounds/industrial3_loop.wav
+Industrial_Sounds/refrigerator.wav
+sprites/dx/maps/light.spr
+sprites/snowfacility/skla_glow02.spr
+sound/ambience/computalk1.wav
+sound/ambience/computalk2.wav
+sound/Industrial_Sounds/dronemachine1.wav
+sound/Industrial_Sounds/industrial3_loop.wav
+sound/Industrial_Sounds/refrigerator.wav
